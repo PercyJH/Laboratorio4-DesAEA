@@ -1,0 +1,11 @@
+C:\Users\percy\source\repos\Lab04 - DesAEA\bin\Debug\Lab04 - DesAEA.exe.config
+C:\Users\percy\source\repos\Lab04 - DesAEA\bin\Debug\Lab04 - DesAEA.exe
+C:\Users\percy\source\repos\Lab04 - DesAEA\bin\Debug\Lab04 - DesAEA.pdb
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04 - DesAEA.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04___DesAEA.Form1.resources
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04___DesAEA.Persona.resources
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04___DesAEA.Properties.Resources.resources
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04 - DesAEA.csproj.GenerateResource.cache
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04 - DesAEA.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04 - DesAEA.exe
+C:\Users\percy\source\repos\Lab04 - DesAEA\obj\Debug\Lab04 - DesAEA.pdb
