@@ -1,0 +1,15 @@
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\MainWindow.g.cs
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\App.g.cs
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA_MarkupCompile.cache
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA_MarkupCompile.lref
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\bin\Debug\WPFSemana04_DesAEA.exe.config
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\bin\Debug\WPFSemana04_DesAEA.exe
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\bin\Debug\WPFSemana04_DesAEA.pdb
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\MainWindow.baml
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.g.resources
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.Properties.Resources.resources
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.csproj.GenerateResource.cache
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.exe
+C:\Users\percy\source\repos\WPFSemana04_DesAEA\obj\Debug\WPFSemana04_DesAEA.pdb
